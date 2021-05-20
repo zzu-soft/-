@@ -1,3 +1,3 @@
-# -
-Mulan is girl power!
-There is no code you need to learn Git and GitHub.
+# hello-world
+
+during the time of watching the Friends,I have better understood the gorgeous of friendship,love also the difference between friendship and love.
